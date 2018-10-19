@@ -1,7 +1,7 @@
 # Memory Game
 
 **Link to App Demo** 
-[Click Here To Play!](https://dexxel.github.io/Memory-Game/)
+[Click Here To Play!](https://evening-spire-41969.herokuapp.com/)
 
 ### Overview
 This is a react.js app that uses react.js for the frontend UI, and javascript ES6 for game logic. This is a fun, interactive, game where users click on animals to earn points. Users earn points when clicking an image, and the score is reset to 0 if the same image is clicked more than once. 
