@@ -1,0 +1,27 @@
+.outerDiv {
+  display: inline-block;
+  cursor: pointer;
+  max-height: 180px;
+  min-height: 165px;
+  margin: 22px 25px;
+  position: relative;
+  min-width: 180px;
+  max-width: 165px;
+  box-shadow: 10px 5px 10px #999, 1px 0px #999;
+}
+
+
+.col-sm-3 {
+  padding: 0;
+}
+
+.animalImages {
+  /* color: white; */
+  display: inline-block;
+  cursor: pointer;
+  height: 100%;
+  width: 100%;
+ 
+ 
+}
+

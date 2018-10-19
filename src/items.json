@@ -1,0 +1,60 @@
+[{
+    "id": "1",
+    "name": "Sinestro",
+    "image": "./assets/images/sinestro.png"
+  },
+  {
+    "id": "2",
+    "name": "Barry Allen",
+    "image": "./assets/images/barry-allen.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Lex Luthor",
+    "image": "./assets/images/lex-luthor.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Joker",
+    "image": "./assets/images/joker.jpg"
+  },
+  {
+    "id": "5",
+    "name": "John Stewart",
+    "image": "./assets/images/john-stewart.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Wally West",
+    "image": "./assets/images/wally-west.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Green Arrow",
+    "image": "./assets/images/green-arrow.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Batman",
+    "image": "./assets/images/batman.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Aqua Man",
+    "image": "./assets/images/aqua-man.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Wonder Women",
+    "image": "./assets/images/wonder-woman.jpeg"
+  },
+  {
+    "id": "11",
+    "name": "Superman",
+    "image": "./assets/images/superman.jpg"
+  },
+  {
+    "id": "12",
+    "image": "./assets/images/hal-jordan.jpg"
+  }
+]
